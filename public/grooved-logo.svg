@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 96" role="img" aria-labelledby="title">
+  <title id="title">GROOVED</title>
+  <rect width="360" height="96" rx="18" fill="#20231d"/>
+  <g transform="translate(18 16)" stroke="#d7f36a" fill="none">
+    <circle cx="32" cy="32" r="29" stroke-width="3"/>
+    <circle cx="32" cy="32" r="21" stroke-width="1" opacity=".8"/>
+    <circle cx="32" cy="32" r="12" fill="#d7f36a" stroke="none"/>
+    <circle cx="32" cy="32" r="3" fill="#20231d" stroke="none"/>
+  </g>
+  <text x="96" y="48" dominant-baseline="middle" fill="#fffef8" font-family="Inter,Arial,sans-serif" font-size="29" font-weight="850" letter-spacing="6">GROOVED</text>
+</svg>
